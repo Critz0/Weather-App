@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(62, 146, 204); /* Set the background color */
+}
+
+header {
+    background-color: white; /* Set the header background to white */
+}
+
+.container {
+    background-color: white; /* Set the container background to white */
+    padding: 20px; /* Optional: Add some padding */
+    border-radius: 5px; /* Optional: Add rounded corners */
+}
